@@ -41,5 +41,6 @@ Our Pytorch version of Dragonnet and TARNet (the 3-headed variant adopted in ori
 To calculate aggregated metrics reported in the paper
 
 ```bash
+# cd /directory/to/repository
 python print_results.py
 ```
