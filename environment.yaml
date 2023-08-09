@@ -1,0 +1,17 @@
+name: TCL
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - ca-certificates
+  - certifi
+  - openssl
+  - pandas
+  - jupyter
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+    - scikit-learn
