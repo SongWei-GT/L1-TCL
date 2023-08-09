@@ -13,9 +13,20 @@ To reproduce paper experiments, the defualt parameters are set to reproduce the 
 ```bash
 cd TCL 
 coda activate TCL
-python -m run.run_base # TO-CL
-python -m run.run_warmstart # WS-TCL
-python -m run.run_transfer # our L1-TCL
+```
+TO-CL 
+```bash
+python -m run.run_base
+```
+
+WS-TCL 
+```bash
+python -m run.run_warmstart
+```
+
+our L1-TCL
+```bash
+python -m run.run_transfer
 ```
 
 To run experiments with other hyperparameters. 
