@@ -12,7 +12,7 @@ To reproduce paper experiments, the defualt parameters are set to reproduce the 
 
 ```bash
 cd TCL 
-coda activate TCL
+conda activate TCL
 ```
 TO-CL 
 ```bash
