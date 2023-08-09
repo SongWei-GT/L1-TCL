@@ -2,7 +2,6 @@ import numpy as np
 import json
 import pandas as pd
 import glob
-import matplotlib.pyplot as plt
 
 
 target_idx = '4'
